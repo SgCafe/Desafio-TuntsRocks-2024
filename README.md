@@ -12,7 +12,7 @@ Criar uma aplicação capaz de ler uma planilha do Google Sheets, buscar informa
 
 ## Features
 
-- 
+- Adicionando conexão com planilha e funcionalidades ao projeto.
 - Adição de arquivo com ultima atualização e alteração anterior.
 - Mudando a cor da linha do Google Sheets, baseado se o aluno foi aprovado ou não.
 
